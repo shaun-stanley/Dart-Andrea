@@ -4,8 +4,5 @@ void main() {
   int age = 19;
   double height = 5.10;
 
-  print(firstName);
-  print(lastName);
-  print(age);
-  print(height);
+  print("$firstName \n$lastName \n$age \n$height");
 }
